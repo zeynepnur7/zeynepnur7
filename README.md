@@ -9,6 +9,6 @@ With a solid foundation in theory and growing practical experience, Zeynep is co
 to make meaningful contributions in the field of AI and software development 🚀**data manipulation** techniques, and working knowledge 
 of **Large Language Models (LLMs)** and **Generative AI** technologies.
 ## Let's Connect!
-[![LinkedIn](https://www.linkedin.com/in/zeynep-nur-erten-241575277/)
-[![Kaggle](https://www.kaggle.com/zeynepnurerten)
-[![HuggingFace](https://huggingface.co/zeynep7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeynep-nur-erten-241575277/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/zeynepnurerten)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/zeynep7)
